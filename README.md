@@ -4,4 +4,5 @@
 # opencv study
 # update image
 # ajax update
-# 
+# member
+
