@@ -5,4 +5,4 @@
 # update image
 # ajax update
 # member group
-# board
+# board write
