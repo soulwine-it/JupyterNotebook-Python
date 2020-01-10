@@ -6,3 +6,4 @@
 # ajax update
 # member group
 # board write
+C choose c when 
