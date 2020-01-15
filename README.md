@@ -7,4 +7,4 @@
 # member group
 # board write
 # choose c when 
-# board
+# board .
