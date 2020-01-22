@@ -8,3 +8,4 @@
 # board write
 # choose c when 
 # board ...
+Has a is a
