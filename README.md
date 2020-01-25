@@ -9,4 +9,4 @@
 # choose c when 
 # board ....
 Has a is a
-Abstract
+Abstract interface
