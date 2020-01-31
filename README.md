@@ -7,7 +7,7 @@
 # member group
 # board write
 # choose c when 
-# board ..../
+# board ..../.
 Has a is a
 Abstract interface
 Javascript newlecture1
