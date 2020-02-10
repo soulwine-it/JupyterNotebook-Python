@@ -5,7 +5,7 @@
 # update image
 # ajax update
 # member group
-# board write
+# board write.
 # choose c when 
 # board ..../........
 
