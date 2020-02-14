@@ -7,7 +7,7 @@
 # member group
 # board write.
 # choose c when 
-# board..1
+# board...
 
 Has a is a
 Abstract interface
